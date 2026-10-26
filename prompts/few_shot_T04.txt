@@ -1,0 +1,24 @@
+=== USER ===
+Classify the following customer support ticket into exactly one of these categories: BILLING, TECHNICAL, ACCOUNT, FEEDBACK, OTHER.
+Reply with the category name only.
+
+Ticket: My invoice shows a charge I don't recognize.
+Category: BILLING
+
+Ticket: The dashboard won't load, I just get an error 500.
+Category: TECHNICAL
+
+Ticket: I want to turn on two-factor authentication for my login.
+Category: ACCOUNT
+
+Ticket: It would be great if you added a calendar view.
+Category: FEEDBACK
+
+Ticket: What are your office hours?
+Category: OTHER
+
+Ticket: I got locked out after too many login attempts.
+Category: ACCOUNT
+
+Ticket: Love the new dark mode, great job team!
+Category:

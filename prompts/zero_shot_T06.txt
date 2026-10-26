@@ -1,0 +1,6 @@
+=== USER ===
+Classify the following customer support ticket into exactly one of these categories: BILLING, TECHNICAL, ACCOUNT, FEEDBACK, OTHER.
+Reply with the category name only.
+
+Ticket: Your pricing page says $10/month but checkout shows $12. Fix your website.
+Category:

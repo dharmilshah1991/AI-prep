@@ -1,0 +1,6 @@
+=== USER ===
+Classify the following customer support ticket into exactly one of these categories: BILLING, TECHNICAL, ACCOUNT, FEEDBACK, OTHER.
+Reply with the category name only.
+
+Ticket: Honestly the export feature is so slow it's basically useless. Please make it faster.
+Category:
